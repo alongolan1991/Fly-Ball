@@ -26,8 +26,8 @@ Enjoy you leisure time...
 - For each game the you have 10 turns.
 
 # Some pics from the app
-<img src="https://github.com/alongolan1991/fly-ball/blob/master/images/1.png" width="244">
-<img src="https://github.com/alongolan1991/fly-ball/blob/master/images/2.png" width="244">
-<img src="https://github.com/alongolan1991/fly-ball/blob/master/images/3.png" width="244">
-<img src="https://github.com/alongolan1991/fly-ball/blob/master/images/4.png" width="244">
-<img src="https://github.com/alongolan1991/fly-ball/blob/master/images/5.png" width="244">
+<img src="https://github.com/alongolan1991/Fly-Ball/blob/master/GooglePlay/images/1.png" width="244">
+<img src="https://github.com/alongolan1991/Fly-Ball/blob/master/GooglePlay/images/2.png" width="244">
+<img src="https://github.com/alongolan1991/Fly-Ball/blob/master/GooglePlay/images/3.png" width="244">
+<img src="https://github.com/alongolan1991/Fly-Ball/blob/master/GooglePlay/images/4.png" width="244">
+<img src="https://github.com/alongolan1991/Fly-Ball/blob/master/GooglePlay/images/5.png" width="244">
