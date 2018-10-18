@@ -1,5 +1,7 @@
 # Fly Ball
 
+[Link to Google Play](https://play.google.com/store/apps/details?id=com.shenkar.gameproject)
+
 Hit the bricks with the ball, each level different difficulty with limited turns.
 
 # Contributers
